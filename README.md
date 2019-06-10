@@ -1,7 +1,6 @@
 # Gun-Detection-Tensorflow-API
 Object Detection on a Raspberry PI. Personal Project. I participated with it at TECHALLENGE 2019. 
 
-
 Short Description:
 
 1.I used TensorFlow API and OpenCV for Object-Detection Algorithms.
@@ -15,3 +14,5 @@ Short Description:
 5.I trained the algorithm to recognise them with a Total Loss of 1.5.
 
 6.I adapted the Python Code to detect Guns from the video-stream of my WebCamera connected to the RaspberryPI.
+
+----ALL THE FILES INCLUDED IN THIS REPOSITORY ARE FOR A DEMONSTRATIVE PURPOSE, THE WHOLE PROCESS OF MAKING IT FUNCTIONALLY IT IS MORE COMPLICATED THAN THIS----
